@@ -5,7 +5,7 @@
 ###
 
 ![hippo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjN1bmJ2aG9zM2NpOTBwdml4bnozNHZveTNiMTl6OWxybDZucml3eiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif)
-
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhseXB4d3AwNjRuMnllNnRtc2g5bWl2MDFod2hiYzBrd202NWxhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif
 ###
 
 <div data-importer="techs" align="left">
