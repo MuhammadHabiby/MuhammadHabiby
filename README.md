@@ -3,7 +3,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajk0dGwzeTl1aWptNTEyczg0OWtrdWZlbHcycmw4dWlvaTlubHBrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif"  />
+![Hackerman](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajk0dGwzeTl1aWptNTEyczg0OWtrdWZlbHcycmw4dWlvaTlubHBrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif)
 
 ###
 
