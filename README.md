@@ -4,7 +4,7 @@
 
 ###
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjN1bmJ2aG9zM2NpOTBwdml4bnozNHZveTNiMTl6OWxybDZucml3eiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif))
 
 ###
 
